@@ -11,4 +11,4 @@ The data set was taken from  [https://ourworldindata.org/](https://ourworldindat
     -   Factors responsible or aiding to the infection
     -   Countries least affected due to infection
 
-To checkout my notebook, please click [here](https://github.com/Qadir92/covid-19-eda/blob/main/EDA%20on%20Covid%2019.ipynb)
+To checkout my notebook, please click [here](https://github.com/Qadir92/covid-19-eda/blob/main/EDA_on_Covid_19.ipynb)
