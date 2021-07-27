@@ -13,4 +13,4 @@ The data set was taken from  [https://ourworldindata.org/](https://ourworldindat
 
 To checkout my notebook, please click [here](https://github.com/Qadir92/covid-19-eda/blob/main/EDA_on_Covid_19.ipynb)
 
-*Not all charts will load in the preview*
+*Not all charts will load in the preview, please reload a couple of times for the notebook to load*
